@@ -1,0 +1,33 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:07b687ab37670c3134ca3378a113eb8b:57a8e3d09e9ce4b69285aa6c3d64fc37:f7cb68de4409fe83243085fc6a3ec603$
+#
+:format=40300
+:texture=SkeletonWarriorSpriteSheet.png
+:size=2288x3620
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=KeepTransparentPixels
+
+attack (1);0;3100;357;520; 0.5;0.5; 0;0;0;0
+attack (2);762;3100;357;520; 0.5;0.5; 0;0;0;0
+attack (3);1524;3100;357;520; 0.5;0.5; 0;0;0;0
+attack (4);0;2497;357;520; 0.5;0.5; 0;0;0;0
+attack (5);762;2497;357;520; 0.5;0.5; 0;0;0;0
+attack (6);1524;2497;357;520; 0.5;0.5; 0;0;0;0
+attack (7);0;1894;357;520; 0.5;0.5; 0;0;0;0
+attack (8);762;1894;357;520; 0.5;0.5; 0;0;0;0
+attack (9);1524;1894;357;520; 0.5;0.5; 0;0;0;0
+attack (10);0;1291;357;520; 0.5;0.5; 0;0;0;0
+frame-1;762;1208;762;603; 0.5;0.5; 0;0;0;0
+frame-2;1524;1208;762;603; 0.5;0.5; 0;0;0;0
+frame-3;0;605;762;603; 0.5;0.5; 0;0;0;0
+frame-4;762;605;762;603; 0.5;0.5; 0;0;0;0
+frame-5;1524;605;762;603; 0.5;0.5; 0;0;0;0
+frame-6;0;2;762;603; 0.5;0.5; 0;0;0;0
+frame-7;762;2;762;603; 0.5;0.5; 0;0;0;0
+frame-8;1524;2;762;603; 0.5;0.5; 0;0;0;0

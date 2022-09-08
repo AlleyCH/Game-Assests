@@ -1,0 +1,102 @@
+{"frames": [
+
+{
+	"filename": "Idle1.png",
+	"frame": {"x":1221,"y":1,"w":139,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":908,"y":859,"w":139,"h":200},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Idle1opposite .png",
+	"frame": {"x":1362,"y":1,"w":139,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":873,"y":859,"w":139,"h":200},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Idle2.png",
+	"frame": {"x":869,"y":1,"w":174,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":899,"y":855,"w":174,"h":207},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Idle2opposite .png",
+	"frame": {"x":1045,"y":1,"w":174,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":847,"y":855,"w":174,"h":207},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Idle3.png",
+	"frame": {"x":1,"y":1,"w":150,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":908,"y":855,"w":150,"h":220},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Idle3opposite .png",
+	"frame": {"x":153,"y":1,"w":150,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":862,"y":855,"w":150,"h":220},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Walk1.png",
+	"frame": {"x":305,"y":1,"w":152,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":900,"y":855,"w":152,"h":217},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Walk1opposite .png",
+	"frame": {"x":459,"y":1,"w":152,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":868,"y":855,"w":152,"h":217},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Walk2.png",
+	"frame": {"x":613,"y":1,"w":126,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":903,"y":855,"w":126,"h":217},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+},
+{
+	"filename": "Walk2opposite .png",
+	"frame": {"x":741,"y":1,"w":126,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":891,"y":855,"w":126,"h":217},
+	"sourceSize": {"w":1920,"h":1920},
+	"pivot": {"x":0.952083,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Ninja.pngv1.png",
+	"format": "RGBA8888",
+	"size": {"w":1502,"h":222},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:336742c7921ad60e033072023dbd6fb8:2c6685d9415590711f6e65806e884d0f:e81cc6670dc2ace8249cf78cdb403f62$"
+}
+}

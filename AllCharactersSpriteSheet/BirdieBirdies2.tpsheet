@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:85ea21a09161c746514dad8d11fda821:56a86b17cc2d7c2cb88d8d2198dcf3c7:38888526d1e3a5b0569990bbb26a531b$
+#
+:format=40300
+:texture=SkelliesBirdies2.png
+:size=2540x1004
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=KeepTransparentPixels
+
+frame-1;0;502;635;502; 0.5;0.5; 0;0;0;0
+frame-2;635;502;635;502; 0.5;0.5; 0;0;0;0
+frame-3;1270;502;635;502; 0.5;0.5; 0;0;0;0
+frame-4;1905;502;635;502; 0.5;0.5; 0;0;0;0
+frame-5;0;0;635;502; 0.5;0.5; 0;0;0;0
+frame-6;635;0;635;502; 0.5;0.5; 0;0;0;0
+frame-7;1270;0;635;502; 0.5;0.5; 0;0;0;0
+frame-8;1905;0;635;502; 0.5;0.5; 0;0;0;0

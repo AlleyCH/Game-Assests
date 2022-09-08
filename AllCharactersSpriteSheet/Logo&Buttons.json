@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "Buttons&Logo.png",
+	"frame": {"x":1,"y":1,"w":896,"h":917},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":83,"w":896,"h":917},
+	"sourceSize": {"w":1200,"h":1950}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Logo&Buttons.png",
+	"format": "RGBA8888",
+	"size": {"w":898,"h":919},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4d67b98ef76a710dff63d0dded2a7699:22f3e6b872f0393a07e9412eff813b86:98126f675cd1456b55928f1ee60b72b0$"
+}
+}
